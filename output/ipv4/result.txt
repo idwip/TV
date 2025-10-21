@@ -1,17 +1,27 @@
 🕘️更新时间,#genre#
-2025-10-21 06:27:01,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+2025-10-21 18:30:54,http://60.16.0.216:5757/hls/4/index.m3u8
 
 📺央视频道,#genre#
+CCTV-4,http://60.16.0.216:5757/hls/4/index.m3u8
+CETV-1,https://httop.top/tv-cetv1
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140
+CETV-1,http://113.88.211.3:9898/hls/67/index.m3u8
+CETV-4,http://live1.hrtn.net/live/zgjy4_1000.m3u8?auth_key=1761182294-bc27fb5abbe54f2505a92010c5520e99-0-feaaffd75df09facc8a83c92673e2068
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 
 📡卫视频道,#genre#
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760876105&sign=a477cc462a76be885dab5120dc9b2c47
+河北卫视,http://60.16.0.216:5757/hls/38/index.m3u8
 
 ☘️河南频道,#genre#
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 
 💰央视付费频道,#genre#
+风云音乐,http://183.21.68.176:3388/hls/29/index.m3u8
+第一剧场,http://1.31.14.70:54321/hls/59/index.m3u8
+第一剧场,http://183.21.68.176:3388/hls/21/index.m3u8
+风云剧场,http://183.21.68.176:3388/hls/20/index.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
@@ -24,7 +34,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
-璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
 重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
@@ -62,6 +71,7 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+IPTV经典电影,http://113.88.211.3:9898/hls/71/index.m3u8
 IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
@@ -70,18 +80,18 @@ IPTV经典电影,http://139.129.231.228/rtp/239.21.1.124:5002
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
 
 🏀体育频道,#genre#
+爱体育,http://183.21.68.176:3388/hls/10/index.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
+少儿动画,http://114.252.126.226:8899/hls/32/index.m3u8
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🎥咪咕直播,#genre#
